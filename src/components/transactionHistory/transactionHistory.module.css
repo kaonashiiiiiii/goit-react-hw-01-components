@@ -1,0 +1,22 @@
+.transaction-history {
+  border-collapse: collapse;
+  border: 1px solid #808080;
+  text-align: center;
+  width: 700px;
+  height: 300px;
+  box-shadow:
+    6px 6px 12px #5a5a5a,
+    -6px -6px 12px #ffffff;
+}
+
+.transaction-history th {
+  padding: 10px;
+  background: #66ccff;
+}
+.transaction-history th:not(:last-child) {
+  border-right: 1px solid white;
+}
+
+.transaction-history tr:nth-child(even) {
+  background: #f0f0f0;
+}

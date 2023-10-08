@@ -1,0 +1,27 @@
+.item {
+  display: flex;
+  align-items: center;
+  width: 400px;
+  padding: 5px 10px;
+  box-shadow:
+    6px 6px 12px #5a5a5a,
+    -6px -6px 12px #ffffff;
+  gap: 10px;
+}
+
+.item .status {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.item .avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 2%;
+}
+
+.item .name {
+  font-size: 25px;
+}

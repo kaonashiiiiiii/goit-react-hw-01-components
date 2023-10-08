@@ -1,0 +1,27 @@
+[
+  {
+    "avatar": "/images/friends/friend1.png",
+    "name": "John",
+    "isOnline": true
+  },
+  {
+    "avatar": "/images/friends/friend2.png",
+    "name": "Jane",
+    "isOnline": false
+  },
+  {
+    "avatar": "/images/friends/friend3.png",
+    "name": "Bob",
+    "isOnline": true
+  },
+  {
+    "avatar": "/images/friends/friend4.png",
+    "name": "Alice",
+    "isOnline": false
+  },
+  {
+    "avatar": "/images/friends/friend5.png",
+    "name": "Charlie",
+    "isOnline": true
+  }
+]

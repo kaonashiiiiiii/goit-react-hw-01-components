@@ -1,0 +1,32 @@
+.statistics {
+  width: 300px;
+  text-align: center;
+}
+
+.statistics .title {
+  margin: 20px;
+  text-transform: uppercase;
+  color: #808080;
+}
+
+.statistics .statlist {
+  list-style: none;
+  display: grid;
+  place-items: center;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.statistics .statlist li {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.statistics .statlist li .percentage {
+  font-size: 25px;
+  font-weight: 600px;
+}

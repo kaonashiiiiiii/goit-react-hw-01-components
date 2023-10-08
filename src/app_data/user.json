@@ -1,0 +1,11 @@
+{
+  "name": "Ivan Chalov",
+  "tag": "ivchalov",
+  "location": "Kyiv, Ukraine",
+  "avatar": "/images/avatar.jpg",
+  "stats": {
+    "followers": 1000,
+    "following": 500,
+    "posts": 200
+  }
+}

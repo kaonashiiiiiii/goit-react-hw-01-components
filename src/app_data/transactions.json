@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "type": "purchase",
+    "amount": 100.5,
+    "currency": "USD"
+  },
+  {
+    "id": "2",
+    "type": "withdrawal",
+    "amount": 50.2,
+    "currency": "EUR"
+  },
+  {
+    "id": "3",
+    "type": "deposit",
+    "amount": 200.75,
+    "currency": "GBP"
+  },
+  {
+    "id": "4",
+    "type": "purchase",
+    "amount": 30.0,
+    "currency": "USD"
+  },
+  {
+    "id": "5",
+    "type": "withdrawal",
+    "amount": 80.6,
+    "currency": "JPY"
+  }
+]
