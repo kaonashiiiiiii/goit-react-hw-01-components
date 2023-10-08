@@ -1,3 +1,5 @@
+# Живая страница на github pages
+https://kaonashiiiiiii.github.io/goit-react-hw-01-components/
 # React homework template
 
 Этот проект был создан при помощи
